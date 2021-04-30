@@ -1,1 +1,1 @@
-# DengAI_course_project
+# DengAI_ds_course_project
